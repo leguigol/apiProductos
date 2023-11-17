@@ -13,7 +13,7 @@
       "titulo": "Cegar",
       "descripcion": "Ultimo single de Luz difusa",
       "categoria": "Discos",
-      "imagen": "",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7aoD3NYxlGvtBK2KYsMEZRTJkKx-8AHGaQ&usqp=CAU",
       "precio": 10000
     },
     {
@@ -21,7 +21,7 @@
       "titulo": "Llavero dark",
       "descripcion": "llaverito hecho de acero inoxidable",
       "categoria": "Merchandising",
-      "imagen": "",
+      "imagen": "https://d22fxaf9t8d39k.cloudfront.net/15af17ca94c61d397e9fff236cb90c977c38b0578ef52955d8813ab2f8ad2720107133.jpg",
       "precio": 2500
     },
     {
@@ -29,7 +29,7 @@
       "titulo": "Remera negra",
       "descripcion": "Remera negra con letras blancas",
       "categoria": "Ropa",
-      "imagen": "",
+      "imagen": "https://acdn.mitiendanube.com/stores/944/335/products/dark-2-f41d51418ca3a8edd415499223346102-480-0.jpg",
       "precio": 9500
     },
     {
@@ -37,7 +37,7 @@
       "titulo": "Corazon Delator",
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
-      "imagen": "",
+      "imagen": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b56ba437798541.579bf12b11499.jpg",
       "precio": 15000
     },
     {
@@ -45,7 +45,7 @@
       "titulo": "El rito",
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
-      "imagen": "",
+      "imagen": "https://d22kgo07nfc6jd.cloudfront.net/media/upload/7401d5b367679511b3375ea0205b9cdd00e820431bfb9a7a0ca7dbc637425.jpg",
       "precio": 15001
     }
 
