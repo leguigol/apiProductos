@@ -5,7 +5,7 @@
       "titulo": "Como una roca",
       "descripcion": "Primer album de la exitosa banda de Wilde",
       "categoria": "Discos",
-      "imagen": "https://hgquintana.com/wp-content/uploads/2011/09/Gota-Roca.jpg"
+      "imagen": "https://hgquintana.com/wp-content/uploads/2011/09/Gota-Roca.jpg",
       "precio": 39000
     },
     {
@@ -13,7 +13,7 @@
       "titulo": "Cegar",
       "descripcion": "Ultimo single de Luz difusa",
       "categoria": "Discos",
-      "imagen": ""
+      "imagen": "",
       "precio": 10000
     },
     {
@@ -21,7 +21,7 @@
       "titulo": "Llavero dark",
       "descripcion": "llaverito hecho de acero inoxidable",
       "categoria": "Merchandising",
-      "imagen": ""
+      "imagen": "",
       "precio": 2500
     },
     {
@@ -29,7 +29,7 @@
       "titulo": "Remera negra",
       "descripcion": "Remera negra con letras blancas",
       "categoria": "Ropa",
-      "imagen": ""
+      "imagen": "",
       "precio": 9500
     },
     {
@@ -37,7 +37,7 @@
       "titulo": "Corazon Delator",
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
-      "imagen": ""
+      "imagen": "",
       "precio": 15000
     },
     {
@@ -45,7 +45,7 @@
       "titulo": "El rito",
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
-      "imagen": ""
+      "imagen": "",
       "precio": 15001
     }
 
