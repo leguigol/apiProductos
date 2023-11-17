@@ -6,6 +6,7 @@
       "descripcion": "Primer album de la exitosa banda de Wilde",
       "categoria": "Discos",
       "imagen": "https://hgquintana.com/wp-content/uploads/2011/09/Gota-Roca.jpg",
+      "stock": 3,
       "precio": 39000
     },
     {
@@ -14,6 +15,7 @@
       "descripcion": "Ultimo single de Luz difusa",
       "categoria": "Discos",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7aoD3NYxlGvtBK2KYsMEZRTJkKx-8AHGaQ&usqp=CAU",
+      "stock": 5,
       "precio": 10000
     },
     {
@@ -22,6 +24,7 @@
       "descripcion": "llaverito hecho de acero inoxidable",
       "categoria": "Merchandising",
       "imagen": "https://d22fxaf9t8d39k.cloudfront.net/15af17ca94c61d397e9fff236cb90c977c38b0578ef52955d8813ab2f8ad2720107133.jpg",
+      "stock": 10,
       "precio": 2500
     },
     {
@@ -30,6 +33,7 @@
       "descripcion": "Remera negra con letras blancas",
       "categoria": "Ropa",
       "imagen": "https://acdn.mitiendanube.com/stores/944/335/products/dark-2-f41d51418ca3a8edd415499223346102-480-0.jpg",
+      "stock": 6,
       "precio": 9500
     },
     {
@@ -38,6 +42,7 @@
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
       "imagen": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b56ba437798541.579bf12b11499.jpg",
+      "stock": 0,
       "precio": 15000
     },
     {
@@ -46,6 +51,7 @@
       "descripcion": "Cover de Soda Stereo",
       "categoria": "Discos",
       "imagen": "https://d22kgo07nfc6jd.cloudfront.net/media/upload/7401d5b367679511b3375ea0205b9cdd00e820431bfb9a7a0ca7dbc637425.jpg",
+      "stock": 8,
       "precio": 15001
     }
 
