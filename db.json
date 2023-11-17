@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "titulo": "Como una roca",
+      "descripcion": "Primer album de la exitosa banda de Wilde",
+      "categoria": "Discos",
+      "precio": 39000
+    },
+    {
+      "id": "2",
+      "titulo": "Cegar",
+      "descripcion": "Ultimo single de Luz difusa",
+      "categoria": "Discos",
+      "precio": 10000
+    },
+    {
+      "id": "3",
+      "titulo": "Llavero dark",
+      "descripcion": "llaverito hecho de acero inoxidable",
+      "categoria": "Merchandising",
+      "precio": 2500
+    },
+    {
+      "id": "4",
+      "titulo": "Remera negra",
+      "descripcion": "Remera negra con letras blancas",
+      "categoria": "Ropa",
+      "precio": 9500
+    },
+    {
+      "id": "5",
+      "titulo": "Corazon Delator",
+      "descripcion": "Cover de Soda Stereo",
+      "categoria": "Discos",
+      "precio": 15000
+    },
+    {
+      "id": "6",
+      "titulo": "El rito",
+      "descripcion": "Cover de Soda Stereo",
+      "categoria": "Discos",
+      "precio": 15001
+    }
+
+  ],
+  "profile": {
+    "name": "leguigol"
+  }
+}
